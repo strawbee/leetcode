@@ -23,7 +23,7 @@ function removeDuplicates(nums) {
 }
 
 /**
- * COMMENTS
+ * @comments
  * current_idx is a pointer to the current index of the array without
  * duplicates.
  *
